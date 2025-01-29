@@ -1,16 +1,12 @@
-# customer_screen
+# Flutter Developer Internship Design Assignment
+## Overview
+This repository contains the completed Flutter Developer Internship design assignment. The design was implemented based on the Figma design provided. The app ensures responsiveness, UI accuracy, and follows best coding practices for maintainability.
 
-A new Flutter project.
+## Features
+- Responsive Design: The UI adapts to different screen sizes and orientations.
+- Filter Functionality: Tags have interactive filters. Please click on the tags to check the filtering behavior.
+- "More Tags" Button: A button that expands to show additional tags when clicked.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes
+- Please check the tags feature by clicking on the tags for the filter functionality.
+- Also, review the "More Tags" button to ensure proper functionality when expanding tags.
