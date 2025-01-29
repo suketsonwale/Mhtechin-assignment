@@ -386,7 +386,7 @@ class _CustomerScreenState extends State<CustomerScreen> {
                 spacing: 16,
                 runSpacing: 20,
                 children: customerCard(),
-              )
+              ),
             ],
           ),
         ),
